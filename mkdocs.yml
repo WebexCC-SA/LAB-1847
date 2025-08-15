@@ -1,5 +1,5 @@
 ---
-site_name: "LAB-1847: Making zero downtime a reality with Webex Calling # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
+site_name: "LAB-1847: Making zero downtime a reality with Webex Calling" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
 site_description: "Making zero downtime a reality with Webex Calling" # must be same as "site_name"
 site_author: RAJAMANI Nallakaruppan
 copyright: Copyright &copy; 2025 Cisco
